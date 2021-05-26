@@ -72,7 +72,7 @@ h1{
 .p-wrapper::before{
     content: '';
     background: yellow;
-    height: 100vh;
+    height: 1000px;
     width: 25vw;
     position: absolute;
     z-index: -1;

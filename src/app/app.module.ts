@@ -9,6 +9,8 @@ import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { NgxPaginationModule } from 'ngx-pagination';
 import { SkillsComponent } from './skills/skills.component';
+import { ReferencesComponent } from './references/references.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 
@@ -20,6 +22,8 @@ import { SkillsComponent } from './skills/skills.component';
     AboutComponent,
     ProjectsComponent,
     SkillsComponent,
+    ReferencesComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
