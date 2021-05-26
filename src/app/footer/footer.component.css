@@ -1,0 +1,23 @@
+.footer {
+    padding: 24px 0;
+}
+
+.btn.btn-link, .navbar .navbar-nav > a.btn.btn-link {
+    color: #888;
+}
+
+.text-muted {
+    color: #868e96 !important;
+}
+
+i.fab.fa-instagram.fa-2x:hover{
+    color: rosybrown;
+}
+
+i.fab.fa-twitter.fa-2x:hover{
+    color: cornflowerblue;
+}
+
+i.fab.fa-github.fa-2x:hover{
+    color: gray;
+}
