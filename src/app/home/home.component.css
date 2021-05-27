@@ -57,6 +57,7 @@ form .btn-warning{
 @media (max-width: 768px){
     div.form-group{
     flex-direction: column;
+    width: 100%;
     }
 
     input#email.form-control{
@@ -66,7 +67,11 @@ form .btn-warning{
     form .btn-warning{
         min-height: 10px;
     }
-
+    .contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
     
 }
 
