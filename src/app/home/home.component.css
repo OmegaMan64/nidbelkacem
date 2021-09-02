@@ -70,6 +70,9 @@ form .btn-warning{
         flex-direction: column;
         align-items: center;
     }
+    .apropos{
+        margin-left: 25%;
+    }
     
 }
 
